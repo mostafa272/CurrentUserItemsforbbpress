@@ -14,7 +14,7 @@ Main Features:
 - Limiting the number of items
 - Limiting the length of different elements
 - Customizable settings
-- Sseparated shortcodes & widget?s
+- Separated shortcodes & widget?s
 
 Before using this plugin, make sure bbpress plugin has been installed on your Wordpress website.            
 
